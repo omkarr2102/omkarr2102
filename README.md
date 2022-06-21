@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World! 👋
+### I am Omkar Raghatwan. A Student Pursuing B.tech Computer Science From VJTI, ,Matunga.
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -26,6 +27,11 @@ Spiders are the only web developers in this world who like getting bugs :p
 &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:omkarr2102@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+
+##
+### 💻:keyboard: Languages and Tools 
+
 
 ⭐️ From [Omkar Raghatwan](https://github.com/omkarr2102)
 
