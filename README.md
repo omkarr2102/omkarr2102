@@ -10,8 +10,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on : Andriod Development and Testing
-- 🌱 I’m currently learning : Andriod Dev and React
+- 🔭 I’m currently working on : Android Development and Testing
+- 🌱 I’m currently learning : Android Dev and React
 - 👯 I’m looking to collaborate on : Web Development and Data Science 
 - 💬 Ask me about : Data Visualization
 - 📫 How to reach me: omkarr2102@gmail.com
