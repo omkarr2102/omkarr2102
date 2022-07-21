@@ -1,6 +1,8 @@
 ### Hello World! 👋  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=omkarr2102.omkarr2102)
 
+## Visit my:  [Portfolio](https://github.io/omkarr2102/Portfolio/ "my portfolio")
+
 ### I am Omkar Raghatwan. A Student Pursuing B.tech Computer Science From VJTI, ,Matunga.
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width=60% height=30%/>
