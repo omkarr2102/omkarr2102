@@ -1,7 +1,7 @@
 ### Hello World! 👋  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=omkarr2102.omkarr2102)
 
-## Visit my:  [Portfolio](https://github.io/omkarr2102/Portfolio/ "my portfolio")
+## Visit my:  [Portfolio](https://omkarr2102.github.io/Portfolio/ "my portfolio")
 
 ### I am Omkar Raghatwan. A Student Pursuing B.tech Computer Science From VJTI, ,Matunga.
 
