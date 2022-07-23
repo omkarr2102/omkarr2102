@@ -1,11 +1,15 @@
 ### Hello World! 👋  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=omkarr2102.omkarr2102)
 
-## Visit my:  [Portfolio](https://omkarr2102.github.io/Portfolio/ "my portfolio")
+<br>
+
+ ## Visit my:  [Portfolio](https://omkarr2102.github.io/Portfolio/ "my portfolio")
+
 
 ### I am Omkar Raghatwan. A Student Pursuing B.tech Computer Science From VJTI, ,Matunga.
+#
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width=400px height=300px />
+<img align="left" justify-content="space-around" alt="GIF" src="desk.gif" width=450px height=320px />
 
 <!--
 **omkarr2102/omkarr2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +28,6 @@ Here are some ideas to get you started:
 Spiders are the only web developers in this world who like getting bugs :p
 
 
-
-
-##
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
