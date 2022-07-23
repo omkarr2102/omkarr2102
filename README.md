@@ -9,7 +9,7 @@
 ### I am Omkar Raghatwan. A Student Pursuing B.tech Computer Science From VJTI, ,Matunga.
 #
 
-<img align="left" justify-content="space-around" alt="GIF" src="desk.gif" width=450px height=320px />
+<img align="left" justify-content="space-around" alt="GIF" src="gif.gif" width=450px height=320px />
 
 <!--
 **omkarr2102/omkarr2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
